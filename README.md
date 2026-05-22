@@ -1,4 +1,4 @@
-# Olá, eu sou Matheus Belchior 👋
+# Olá, eu sou Matheus Belchior!
 
 <p align="left">
   Desenvolvedor Backend apaixonado por <strong>Python</strong>, APIs, automações e aplicações com IA.
