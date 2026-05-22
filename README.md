@@ -1,41 +1,102 @@
 # Olá, eu sou Matheus Belchior 👋
 
-Desenvolvedor Backend focado em Python, APIs, Automações e aplicações com IA.
+<p align="left">
+  Desenvolvedor Backend apaixonado por <strong>Python</strong>, APIs, automações e aplicações com IA.
+</p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 Formado em Técnico em Informática pelo IFRN
-- 🖊️ Estudante de Tecnologia da Informação pela UFRN
-- 💻 Focado em desenvolvimento backend com Python e FastAPI
-- ⚡ Desenvolvendo automações e integrações utilizando n8n
-- 🤖 Interesse em engenharia de IA, sistemas backend e aplicações escaláveis
-- 📚 Atualmente estudando APIs, bancos de dados, Docker e arquitetura de software
+🎓 Técnico em Informática pelo IFRN  
+📚 Estudante de Tecnologia da Informação na UFRN  
+💻 Focado em desenvolvimento backend com Python e FastAPI  
+⚡ Desenvolvendo automações e integrações com n8n  
+🤖 Interessado em Engenharia de IA, sistemas backend e aplicações escaláveis  
+📖 Estudando APIs, PostgreSQL, Docker e arquitetura de software  
 
 ---
 
-## 🛠 Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
-### Backend
+### 💻 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
 - Python
 - FastAPI
 - SQLAlchemy
 - APIs REST
 
-### Banco de Dados
+---
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
 - PostgreSQL
 - SQL
 
-### Automação & IA
+---
+
+### ⚡ Automação & IA
+<p>
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
 - n8n
 - Integração de APIs
 - Fluxos automatizados com IA
+- Aplicações inteligentes
 
-### Ferramentas
+---
+
+### 🔧 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
 - Git
 - GitHub
 - Docker
-- Criando automações utilizando n8n
-- Estudando PostgreSQL, Docker e arquitetura backend
-- Construindo aplicações com IA
+
+---
+
+## 📌 Atualmente
+
+🚀 Criando automações utilizando n8n  
+🐳 Estudando Docker e arquitetura backend  
+🗄️ Aprimorando conhecimentos em PostgreSQL  
+🤖 Construindo aplicações com IA  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p>
+  <a href="https://github.com/SEUUSUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ “Transformando ideias em soluções através de código, automação e IA.” ✨
+</p>
