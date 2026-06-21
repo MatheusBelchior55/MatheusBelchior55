@@ -28,6 +28,8 @@
 - FastAPI
 - SQLAlchemy
 - APIs REST
+- Dart
+- Flutter
 
 ---
 
@@ -37,7 +39,7 @@
 </p>
 
 - PostgreSQL
-- SQL
+- SQLite
 
 ---
 
