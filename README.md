@@ -10,7 +10,7 @@
 
 🎓 Técnico em Informática pelo IFRN  
 📚 Estudante de Tecnologia da Informação na UFRN  
-💻 Focado em desenvolvimento backend com Python e FastAPI  
+💻 Focado em desenvolvimento backend com FastAPI e desenvolvimento frontend/mobile com Flutter
 ⚡ Desenvolvendo automações e integrações com n8n  
 🤖 Interessado em Engenharia de IA, sistemas backend e aplicações escaláveis  
 📖 Estudando APIs, PostgreSQL, Docker e arquitetura de software  
