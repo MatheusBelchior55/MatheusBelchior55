@@ -28,6 +28,14 @@
 - FastAPI
 - SQLAlchemy
 - APIs REST
+
+---
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
 - Dart
 - Flutter
 
